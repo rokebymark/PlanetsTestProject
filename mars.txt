@@ -2,3 +2,6 @@ this is my test file for my planet project with git
 
 my first changes to file
 
+
+this is my second change to the file
+
