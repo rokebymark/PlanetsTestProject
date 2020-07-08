@@ -5,4 +5,4 @@ my first changes to file
 
 this is my second change to the file
 
-this is Mark's line added to the file
+this is Mark's line added to the file merged with Jerome's
